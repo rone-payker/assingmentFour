@@ -1,0 +1,304 @@
+
+/*most of Galaxy fold Mobiles  codeing*/
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+  
+  /* CSS */
+  .container{
+		       	width: 100%;
+		       	margin: 0px auto;
+       }
+      .col-6{
+		      	width: 100%;
+		      	float: left;
+      }
+       .col-4{
+			 	     width:100%;
+			 	     float: left;
+      }    
+
+      .header .logo{
+		      	display: block;
+		      	text-align: center;
+      }
+      .nav-menu {
+    	    	text-align: center;
+      }
+      .nav-menu li a{
+			        font-size:9px;
+			}
+			.banner{
+				    padding: 40px 0px;
+			}
+			.banner h1{
+							font-size: 26px;
+							line-height: 1.2em;
+		 }
+		.banner p{
+						font-size: 10px;
+						line-height: 1.7em;
+		}
+		.banner img{
+			      width: 80%;
+		}
+    .succesfully{
+			    	width: 100%;
+			    	padding: 10px 0px 30px;
+
+    }
+    .left-text{
+    	      text-align: center;
+    }
+    .left-text h1{
+			    	font-size: 26px;
+			    	line-height: 1.2em;
+
+    }
+    .left-text p{
+				    	font-size:10px;
+				    	line-height: 1.7em;
+
+     }
+    .right-text h1{
+    	        font-size:26px;
+				    	line-height: 1.7em;
+				    	text-align: center;
+		}
+		.feature{
+			        padding: 0px 0px 20px;
+		}
+		.inner-feature{
+			        width: 60%;
+			        margin: 0px 15px 15px;
+		}
+    .footer p{
+    	        font-size: 12px;
+
+    }
+ 
+
+
+  /* CSS */
+
+  
+}
+
+
+
+
+/*most of Low Smartphones Mobiles  codeing*/
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+       .container{
+		       	width: 100%;
+		       	margin: 0px auto;
+       }
+      .col-6{
+		      	width: 100%;
+		      	float: left;
+      }
+       .col-4{
+			 	     width:100%;
+			 	     float: left;
+      }    
+
+      .header .logo{
+		      	display: block;
+		      	text-align: center;
+      }
+      .nav-menu {
+    	    	text-align: center;
+      }
+      .nav-menu li a{
+			        font-size:12px;
+			}
+			.banner{
+				    padding: 40px 0px;
+			}
+			.banner h1{
+							font-size: 28px;
+							line-height: 1.2em;
+		 }
+		.banner p{
+						font-size: 12px;
+						line-height: 1.7em;
+		}
+		.banner img{
+			      width: 80%;
+		}
+    .succesfully{
+			    	width: 100%;
+			    	padding: 10px 0px 30px;
+
+    }
+    .left-text{
+    	      text-align: center;
+    }
+    .left-text h1{
+			    	font-size: 28px;
+			    	line-height: 1.2em;
+
+    }
+    .left-text p{
+				    	font-size:12px;
+				    	line-height: 1.7em;
+
+     }
+    .right-text h1{
+    	        font-size:28px;
+				    	line-height: 1.7em;
+				    	text-align: center;
+		}
+		.feature{
+			        padding: 0px 0px 20px;
+		}
+		.inner-feature{
+			        margin: 0px 15px 15px;
+		}
+    .footer p{
+    	        font-size: 12px;
+
+    }
+ 
+  /* CSS */
+}
+
+  
+
+
+/*most of Low Resolution Tablets, Mobiles codeing*/
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+    .container{
+		       	width: 100%;
+		       	margin: 0px auto;
+       }
+      .col-6{
+		      	width: 100%;
+		      	float: left;
+      }
+       .col-4{
+			 	     width:100%;
+			 	     float: left;
+      }    
+
+      .header .logo{
+		      	display: block;
+		      	text-align: center;
+      }
+      .nav-menu {
+    	    	text-align: center;
+      }
+      .nav-menu li a{
+			        font-size:13px;
+			}
+			.banner{
+				    padding: 50px 0px;
+			}
+			.banner h1{
+							font-size: 30px;
+							line-height: 1.2em;
+		 }
+		.banner p{
+						font-size: 13px;
+						line-height: 1.7em;
+		}
+		.banner img{
+			      width: 80%;
+		}
+    .succesfully{
+			    	width: 100%;
+			    	padding: 10px 0px 40px;
+
+    }
+    .left-text{
+    	      text-align: center;
+    }
+    .left-text h1{
+			    	font-size: 30px;
+			    	line-height: 1.2em;
+
+    }
+    .left-text p{
+				    	font-size:13px;
+				    	line-height: 1.7em;
+
+     }
+    .right-text h1{
+    	        font-size: 30px;
+				    	line-height: 1.7em;
+				    	text-align: center;
+		}
+		.feature{
+			        padding: 0px 0px 30px;
+		}
+		.inner-feature{
+			        margin: 0px 15px 15px;
+		}
+		.footer{
+			width: 100%;
+			font-size: 15px;
+		}
+   
+
+/* CSS */
+  
+}
+
+
+
+/*most of Tablets, Ipads codeing*/
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px){
+  
+  /* CSS */
+      .container{
+		       	width: 100%;
+		       	margin: 0px auto;
+		   }
+		   .col-12{
+		   	     width: 100%;
+		   }
+      .footer {
+             	width: 103%;
+              float: left;
+    	        padding: 10px 0px;
+	    }   
+
+	   .footer p {
+				   	font-size: 16px;
+				   line-height: 1.7em;
+	   }
+   
+
+  /* CSS */
+
+  
+}
